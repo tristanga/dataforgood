@@ -1,4 +1,3 @@
 # dataforgood
-Canada Open Data Set
+GIS Experimentation with using Toronto Open Data
 
-OMBI-MBN - Canada Municipality Benchmarking Dataset
