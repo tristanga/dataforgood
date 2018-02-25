@@ -31,4 +31,4 @@ centroids@data <- sp::over(x = centroids, y = polygons, returnList = FALSE)
 mapview(centroids)
 
 # Display coordinates for the last Neighbourhood
-centroids@coords[140,]
+centroids@coords[140,] 
